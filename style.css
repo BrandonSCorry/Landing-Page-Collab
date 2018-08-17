@@ -21,13 +21,14 @@
 
 
 .btn-primary {
-  background-color: green;
+  margin-top: 20px;
+  background-color: darkgreen;
   border: 2px solid rosybrown;
   transition: linear all 0.2;
 }
 
 .btn-primary:hover {
-  background-color: darkgreen;
+  background-color: green;
   border-color: rosybrown;
 }
 
@@ -35,6 +36,11 @@ h1.display-4 {
  color: whitesmoke;
   margin-top: 10%;
   font-size:62px;
+}
+
+h1.display-5 {
+  color: white;
+  font-size: 56px;
 }
 
 p.lead {
