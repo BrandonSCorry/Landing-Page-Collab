@@ -70,3 +70,9 @@ hr.my-4 {
   margin-top: 15px;
   margin-right: 8px;
 }
+
+.list-group {margin: 0 auto;}
+
+.card>.list-group:first-child .list-group-item:first-child {
+  margin-top: 5px;
+}
