@@ -5,3 +5,26 @@
   height: 100vh;
 }
 
+.btn-primary {
+  background-color: green;
+  border-color: whitesmoke;
+}
+
+.btn-primary  a:hover {
+  color: greenyellow;
+}
+
+h1.display-4 {
+ color: navajowhite;
+  text-shadow: 1px 1px green;
+  
+}
+
+p.lead {
+
+}
+
+.container p {
+
+}
+
